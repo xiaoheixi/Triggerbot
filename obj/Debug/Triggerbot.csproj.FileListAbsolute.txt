@@ -1,0 +1,11 @@
+C:\Users\justi\source\repos\Triggerbot\bin\Debug\Triggerbot.exe.config
+C:\Users\justi\source\repos\Triggerbot\bin\Debug\Triggerbot.exe
+C:\Users\justi\source\repos\Triggerbot\bin\Debug\Triggerbot.pdb
+C:\Users\justi\source\repos\Triggerbot\obj\Debug\Triggerbot.csproj.AssemblyReference.cache
+C:\Users\justi\source\repos\Triggerbot\obj\Debug\Triggerbot.csproj.SuggestedBindingRedirects.cache
+C:\Users\justi\source\repos\Triggerbot\obj\Debug\Triggerbot.Form1.resources
+C:\Users\justi\source\repos\Triggerbot\obj\Debug\Triggerbot.Properties.Resources.resources
+C:\Users\justi\source\repos\Triggerbot\obj\Debug\Triggerbot.csproj.GenerateResource.cache
+C:\Users\justi\source\repos\Triggerbot\obj\Debug\Triggerbot.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\Triggerbot\obj\Debug\Triggerbot.exe
+C:\Users\justi\source\repos\Triggerbot\obj\Debug\Triggerbot.pdb
